@@ -31,23 +31,23 @@ To set up the environment for these projects, follow the steps below:
 
 1. **Clone the repository**:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/carlosmada22/llm_langchain.git
    cd llm_langchain
-   \`\`\`
+   ```
 
 2. **Create a virtual environment**:
 
-   \`\`\`bash
+   ```bash
    python3 -m venv env
    source env/bin/activate  # On Windows, use \`env\\Scripts\\activate\`
-   \`\`\`
+   ```
 
 3. **Install the required dependencies**:
 
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 *Note: Ensure you have Python 3.7 or higher installed.*
 
@@ -57,9 +57,9 @@ Each project is contained within its own directory under the \`projects\` folder
 
 1. **Navigate to the project's directory**:
 
-   \`\`\`bash
+   ```bash
    cd projects/project_name
-   \`\`\`
+   ```
 
 2. **Follow the instructions provided in the project's README.md** to set up and run the application.
 
@@ -73,21 +73,21 @@ Contributions are welcome! If you have ideas for new projects, improvements, or 
 
 2. **Create a new branch**:
 
-   \`\`\`bash
+   ```bash
    git checkout -b feature/your_feature_name
-   \`\`\`
+   ```
 
 3. **Make your changes and commit them**:
 
-   \`\`\`bash
+   ```bash
    git commit -m \"Description of your changes\"
-   \`\`\`
+   ```
 
 4. **Push to your forked repository**:
 
-   \`\`\`bash
+   ```bash
    git push origin feature/your_feature_name
-   \`\`\`
+   ```
 
 5. **Create a pull request** detailing your changes and the motivation behind them.
 
